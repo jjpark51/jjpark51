@@ -1,6 +1,6 @@
 # Welcome to My Github!
 
-![alt text]("https://images.unsplash.com/photo-1590767413066-12029959a235?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80")
+![alt text]("https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-4593x3062-1526.jpg")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpark51&show_icons=true&theme=dark)
 
