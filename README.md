@@ -2,7 +2,7 @@
 
 ![alt text]("https://images.unsplash.com/photo-1590767413066-12029959a235?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpark51&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpark51&show_icons=true&theme=dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjpark51&layout=compact)](https://github.com/jjpark51/github-readme-stats)
