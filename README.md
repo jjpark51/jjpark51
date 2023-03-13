@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpark51&show_icons=true&theme=dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjpark51&layout=compact&hide=Jupyter Notebook)](https://github.com/jjpark51/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjpark51&layout=compact&hide=jupyter notebook)](https://github.com/jjpark51/github-readme-stats)
 
 
 ## 😄 Info
