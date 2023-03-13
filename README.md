@@ -1,6 +1,6 @@
 # Welcome to My Github!
 
-![alt text]("https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-4593x3062-1526.jpg")
+![tiger]("https://4kwallpapers.com/images/wallpapers/white-tiger-bengal-tiger-black-background-5k-4593x3062-1526.jpg")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjpark51&show_icons=true&theme=dark)
 
