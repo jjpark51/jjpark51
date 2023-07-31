@@ -5,14 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjpark51&hide=jupyter%20notebook&layout=compact)](https://github.com/jjpark51/github-readme-stats)
 
-
-## 😄 Info
  
-Hi, I'm Jinsuk Park
-- Sungkyunkwan University (SKKU)
-- Computing and Informatics 20
-- jjpark57@hotmail.com
-- Enjoys playing baseball, basketball and tennis
 
 <br>
  
