@@ -1,7 +1,7 @@
 # Jinsuk Park
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjpark57)](https://solved.ac/jjpark57/)
 
-Hi, I'm an aspiring DevOps Engineer
+Hi, I'm an aspiring Software Engineer
 <br>
 
 ## 👨🏻‍💻Experience
