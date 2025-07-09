@@ -1,8 +1,6 @@
 # Jinsuk Park
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjpark57)](https://solved.ac/jjpark57/)
 
-
-<br>
+Hi, I am a Python Developer
 
 ## 👨🏻‍💻Experience
 | Group              |       Role                      | Period                        |
