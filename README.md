@@ -17,8 +17,3 @@ Hi, I am a Python Developer
 - 🏟️ **Sports Fan:** Huge baseball & tennis enthusiast! ⚾🎾
 - 🎹 **Music:** Piano (Disney OSTs, 가요, Pop)!
 - 🏀 **Big fan of:** Shohei Ohtani & Stephen Curry
-
-## 🌐 
-- [LinkedIn](https://www.linkedin.com/in/jinsuk-park/) 📎
-
----
