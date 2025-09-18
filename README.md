@@ -11,9 +11,3 @@ Hi, I am a Python Developer
 ### 🏆 Projects
 - 🚗 FindMyBMW
 - 🚙 VisualVroom
-
-## 🔎 About Me
-
-- 🏟️ **Sports Fan:** Huge baseball & tennis enthusiast! ⚾🎾
-- 🎹 **Music:** Piano (Disney OSTs, 가요, Pop)!
-- 🏀 **Big fan of:** Shohei Ohtani & Stephen Curry
