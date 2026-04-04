@@ -1,8 +1,8 @@
 # Jinsuk Park
 
-Hi, I am a Python Developer
+Hi, I am a Backend Developer
 
-## 🧑‍💻 Python Backend Developer
+## 🧑‍💻 Backend Developer
 
 
 ### 🚀 Tech Stack
