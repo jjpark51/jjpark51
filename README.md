@@ -1,5 +1,5 @@
 # Jinsuk Park
 
-Hi, I am a Python Developer
+Hi, I am a Backend Developer
 
 ## 🧑‍💻 Backend Developer
